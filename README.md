@@ -1,1 +1,1 @@
-Working on a simple, personal website while looking into Flask at the same time.
+Working on a simple website with Flask. Will update a more elaborative README later. 
