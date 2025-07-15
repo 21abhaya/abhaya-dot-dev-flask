@@ -1,0 +1,1 @@
+Working on a simple, plain looking personal website while looking into Flask at the same time.
